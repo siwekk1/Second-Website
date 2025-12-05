@@ -1,5 +1,5 @@
 # Hello Hello Hello Again 🐧🐧🐧
-Simply webside about linux, but i learned some new things ⭐
+Simply website about linux, but i learned some new things ⭐
 
 To check the project:
 just open index.html with your browser
