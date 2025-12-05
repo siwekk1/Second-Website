@@ -1,6 +1,8 @@
 body
 {
     background-color: gray;
+    font-family: "Bitcount Prop Double Ink", system-ui;
+
 }
 #container
 {
@@ -10,7 +12,10 @@ body
 }
 #logo
 {
-
+    color:azure;
+    margin: top 20px;
+    font-size: 44px;
+    letter-spacing: 3px;
 }
 #menu
 {
