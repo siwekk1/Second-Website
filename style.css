@@ -6,7 +6,7 @@ body
 }
 #container
 {
-    width: 1200px;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -45,19 +45,79 @@ padding: 10px;
 
 
 }
+#topbarR
+{
+    float: left;
+    width: 760px;
+    padding: 20px;
+    font-size: 16px;
+    text-align: justify;
+   
+}
+#topbarL
+{
+    float: left;
+    border-right: #ffffff dotted;
+    background-color: 2px rgb(10, 41, 41);
+    width: 138x;
+    padding: 20px;
+    text-align: center;
+}
 #topbar
 {
-
+    background-color: rgb(10, 41, 41);
+    color: #ffffff;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 170px;
 }
 #sidebar
 {
-
+    float: left;
+    width: 148px;
+    min-height: 620px;
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+    border-right: 2px #000000 dotted;
 }
 #content
 {
-
+    float: left;
+    width: 730px;
+    padding: 40px;
+    background-color: #dedede;
+    min-height: 580px;
+    text-align: justify;
 }
 #footer
 {
+    clear: both;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+    width: 960px;
+    background-color: rgb(10, 41, 41) ;
+}
+#Linus
+{
+    font-family: "Rouge Script", cursive;
+    font-size: 33px;
+}
+.optionL
+{
 
+}
+.optionL:hover
+{
+    cursor: pointer;
+    background-color: rgb(10, 41, 41);
+    color: #ffffff;
+}
+.Bigtitle
+{
+    font-size: 40px;
 }
