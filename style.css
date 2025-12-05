@@ -1,4 +1,34 @@
-#body
+body
 {
-    background-color: aquamarine;
+    background-color: gray;
+}
+#container
+{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo
+{
+
+}
+#menu
+{
+
+}
+#topbar
+{
+
+}
+#sidebar
+{
+
+}
+#content
+{
+
+}
+#footer
+{
+
 }
